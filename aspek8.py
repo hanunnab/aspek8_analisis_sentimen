@@ -7,11 +7,11 @@ import os
 # === Variabel Global ===
 # Mendefinisikan nama folder dan file untuk model
 MODEL_ASPEK = 'aspek8'
-URL_MODEL_ASPEK = '1PPKoolH6WqYDpPDnm-tq6vr0nkxVDAXN' #https://drive.google.com/file/d/1PPKoolH6WqYDpPDnm-tq6vr0nkxVDAXN/view?usp=drive_link
+URL_MODEL_ASPEK = '1-pdQ7j-yG8pRBFKGuUrsG8_Oqe6378Lr' #https://drive.google.com/file/d/1-pdQ7j-yG8pRBFKGuUrsG8_Oqe6378Lr/view?usp=drive_link
 NAMA_MODEL_ASPEK = 'model_aspek8.pt'
 
 MODEL_SENTIMEN = 'sentimen8'
-URL_MODEL_SENTIMEN = '1opw7es5hgu2XDwAbH8P51i7nnsS040k1' #https://drive.google.com/file/d/1opw7es5hgu2XDwAbH8P51i7nnsS040k1/view?usp=drive_link
+URL_MODEL_SENTIMEN = '1uMjBVR3ysgbyLN7dPCI7rrec2NB2jTIo' #https://drive.google.com/file/d/1uMjBVR3ysgbyLN7dPCI7rrec2NB2jTIo/view?usp=drive_link
 NAMA_MODEL_SENTIMEN = 'model_sentimen8.pt'
 
 # === Fungsi-fungsi Aplikasi ===
